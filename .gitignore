@@ -1,0 +1,4 @@
+Python310/
+subway_env/
+__pycache__/
+*.pyc
