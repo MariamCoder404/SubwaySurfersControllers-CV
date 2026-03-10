@@ -92,8 +92,8 @@ python hand_controller.py
 → Stand still in a neutral position for 1–2 seconds at startup, or press `R` to redo it
 
 ---
-# ‼️‼️Qick-start text file is so important, read it to start easily‼️‼️
-# Enjoy! 🤩💫
+# ‼️Qick-start text file is so important, read it to start easily‼️
+### Enjoy! 🤩💫
 ---
 
 ## 📄 License
